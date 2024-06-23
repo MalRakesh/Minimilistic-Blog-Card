@@ -1,0 +1,80 @@
+.card{
+    /* border: 2px solid black; */
+    border-radius: 13px;
+    width: 368px;
+    height: 420px;
+    position: relative;
+    top: 164px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 3px 8px;
+}
+
+.img-content{
+    /* border: 2px solid black; */
+    border-radius: 13px;
+    width: 336px;
+    height: 152px;
+    background-color: #f8e8f2;
+    margin: auto;
+    position: relative;
+    top: 16px;
+}
+
+img{
+    border-radius: 13px;
+}
+
+.label{
+    /* border: 2px solid black; */
+    border-radius: 13px;
+    font-family: monospace;
+    font-weight: bold;
+    color: #7030b9;
+    background-color: #e5d5fa;
+    position: relative;
+    top: 32px;
+    display: inline;
+    margin: 16px;
+    padding: 5px 10px 5px 10px;
+}
+
+.title{
+    /* border: 2px solid black; */
+    border-radius: 13px;
+    position: relative;
+    top: 48px;
+    margin: 16px;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.details{
+    /* border: 2px solid black; */
+    border-radius: 13px;
+    position: relative;
+    top: 54px;
+    margin: 16px;
+    font-size: 17px;
+    color: #8f8e8f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    /* margin: 30px; */
+    border-top: 1px solid #dfd2d2;
+    position: relative;
+    top: 60px;
+}
+
+.name{
+    /* border: 2px solid black; */
+    border-radius: 13px;
+    display: inline;
+    position: relative;
+    top: 69px;
+    margin: 16px;
+    font-size: 14px;
+    font-family: monospace;
+    color: #7f767f;
+}
