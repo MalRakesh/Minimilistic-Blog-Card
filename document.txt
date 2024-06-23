@@ -1,9 +1,9 @@
 Git Hub Link :
-https://github.com/MalRakesh/Dev-Challenges/tree/main/project1
+https://github.com/MalRakesh/Minimilistic-Blog-Card
 
 
 Demo Link :
-https://minimilisticblogcardbyrakesh-mal-git-main-malrakeshs-projects.vercel.app/
+https://minimilistic-blog-card-by-rakesh-git-0c6107-malrakeshs-projects.vercel.app/
 
 
 Dev Challenges Solution : 
